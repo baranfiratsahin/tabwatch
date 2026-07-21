@@ -1,7 +1,11 @@
-# tabwatch
+<div align="center">
 
-Windows utility that watches window/tab activity and logs focus telemetry for
-personal analytics.
+# Pencere/Sekme Aktivite İzleyici
 
-**Stack:** Python · Win32
-**Status:** Personal tool, v1 archived.
+**Python · kişisel odak telemetrisi**
+
+</div>
+
+### ⬢ Öne çıkanlar
+- Aktif pencere/sekme takibi
+- Kişisel odak analizi
